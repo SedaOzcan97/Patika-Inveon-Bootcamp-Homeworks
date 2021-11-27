@@ -1,0 +1,28 @@
+C:\Users\ASUS\source\repos\Chess\Chess\bin\Debug\netcoreapp3.1\Chess.exe
+C:\Users\ASUS\source\repos\Chess\Chess\bin\Debug\netcoreapp3.1\Chess.deps.json
+C:\Users\ASUS\source\repos\Chess\Chess\bin\Debug\netcoreapp3.1\Chess.runtimeconfig.json
+C:\Users\ASUS\source\repos\Chess\Chess\bin\Debug\netcoreapp3.1\Chess.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\Chess\Chess\bin\Debug\netcoreapp3.1\Chess.dll
+C:\Users\ASUS\source\repos\Chess\Chess\bin\Debug\netcoreapp3.1\Chess.pdb
+C:\Users\ASUS\source\repos\Chess\Chess\obj\Debug\netcoreapp3.1\Chess.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Chess\Chess\obj\Debug\netcoreapp3.1\Chess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Chess\Chess\obj\Debug\netcoreapp3.1\Chess.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Chess\Chess\obj\Debug\netcoreapp3.1\Chess.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Chess\Chess\obj\Debug\netcoreapp3.1\Chess.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Chess\Chess\obj\Debug\netcoreapp3.1\Chess.dll
+C:\Users\ASUS\source\repos\Chess\Chess\obj\Debug\netcoreapp3.1\Chess.pdb
+C:\Users\ASUS\source\repos\Chess\Chess\obj\Debug\netcoreapp3.1\Chess.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\hw5_ oop\Chess\bin\Debug\netcoreapp3.1\Chess.exe
+C:\Users\ASUS\Desktop\hw5_ oop\Chess\bin\Debug\netcoreapp3.1\Chess.deps.json
+C:\Users\ASUS\Desktop\hw5_ oop\Chess\bin\Debug\netcoreapp3.1\Chess.runtimeconfig.json
+C:\Users\ASUS\Desktop\hw5_ oop\Chess\bin\Debug\netcoreapp3.1\Chess.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\hw5_ oop\Chess\bin\Debug\netcoreapp3.1\Chess.dll
+C:\Users\ASUS\Desktop\hw5_ oop\Chess\bin\Debug\netcoreapp3.1\Chess.pdb
+C:\Users\ASUS\Desktop\hw5_ oop\Chess\obj\Debug\netcoreapp3.1\Chess.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\hw5_ oop\Chess\obj\Debug\netcoreapp3.1\Chess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\hw5_ oop\Chess\obj\Debug\netcoreapp3.1\Chess.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\hw5_ oop\Chess\obj\Debug\netcoreapp3.1\Chess.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\hw5_ oop\Chess\obj\Debug\netcoreapp3.1\Chess.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\hw5_ oop\Chess\obj\Debug\netcoreapp3.1\Chess.dll
+C:\Users\ASUS\Desktop\hw5_ oop\Chess\obj\Debug\netcoreapp3.1\Chess.pdb
+C:\Users\ASUS\Desktop\hw5_ oop\Chess\obj\Debug\netcoreapp3.1\Chess.genruntimeconfig.cache
