@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\APIMovie\APIMovie\obj\Debug\netcoreapp3.1\APIMovie.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\APIMovie\APIMovie\obj\Debug\netcoreapp3.1\APIMovie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\APIMovie\APIMovie\obj\Debug\netcoreapp3.1\APIMovie.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\APIMovie\APIMovie\obj\Debug\netcoreapp3.1\APIMovie.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\APIMovie\APIMovie\obj\Debug\netcoreapp3.1\APIMovie.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\APIMovie\APIMovie\obj\Debug\netcoreapp3.1\APIMovie.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Desktop\APIMovie\APIMovie\obj\Debug\netcoreapp3.1\APIMovie.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\APIMovie\APIMovie\obj\Debug\netcoreapp3.1\APIMovie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\APIMovie\APIMovie\obj\Debug\netcoreapp3.1\APIMovie.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\APIMovie\APIMovie\obj\Debug\netcoreapp3.1\APIMovie.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\APIMovie\APIMovie\obj\Debug\netcoreapp3.1\APIMovie.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\APIMovie\APIMovie\obj\Debug\netcoreapp3.1\APIMovie.MvcApplicationPartsAssemblyInfo.cache
